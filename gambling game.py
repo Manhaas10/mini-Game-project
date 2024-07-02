@@ -139,7 +139,7 @@ print("if your sum value is higher than 21 u busts and loose ur bet else u can c
 print("if you hit the card ,card will be added to your sum ,if sum is less than 21 then youwill be shown one of the cards of dealer first card will be hidden")
 print("if you choose stand ,dealers card will be revealed and his count he will be hit until its greater than or equal to your sum value")
 print("after hiting if dealers sum value is greater than 20 you win dealer busts else you loose the game")
-print("So assuming you r clear with the game rules")
+#print("So assuming you r clear with the game rules")
 print("BONUS YOU WILL GIVEN 100 DOLLARS U CAN PLACE BET ANY AMOUNT FROM IT ACCORDINGLY U CAN PLAY THE GAME")
 print("if you bet 10 from 100 then \n100-10=90\nyou win your balence will be 110(100+10*2) \nelse valence will be 90")
 car="hoi"
